@@ -1,7 +1,11 @@
 public class Name {
     public static void main(String[] args) {
-        String name = "apple";
-        System.out.println(name.length());
-        int a;
+       String[] a = {"Каждый", "охотник", "желает", "знать"};
+
+       for(int i = a.length-1; i >=0; i--){
+
+           System.out.println();
+
+       }
     }
 }
